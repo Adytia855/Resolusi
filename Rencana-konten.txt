@@ -3,7 +3,7 @@ RENCANA KONTEN
 -JS
 *ES6
 *Detail
-  >VUe
+  >Vue
 -Fundamental Data Structure
  >Angular
  >React
