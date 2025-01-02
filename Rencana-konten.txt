@@ -5,7 +5,10 @@ RENCANA KONTEN
 *Detail
   >VUe
 -Fundamental Data Structure
+ >Angular
+ >React
 -PHP
+ > Laravel
 -Interview
 -Vlog
 -Phyton
