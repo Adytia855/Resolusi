@@ -4,6 +4,9 @@ RENCANA KONTEN
 *ES6
 *Detail
 -Fundamental Data Structure
+ >Angular
+ >React
 -PHP
+ > Laravel
 -Interview
 -Vlog
