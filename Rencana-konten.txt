@@ -3,7 +3,9 @@ RENCANA KONTEN
 -JS
 *ES6
 *Detail
+  >VUe
 -Fundamental Data Structure
 -PHP
 -Interview
 -Vlog
+-Phyton
